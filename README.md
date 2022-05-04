@@ -17,9 +17,11 @@ O objetivo é avaliar sua experiência em escrever código de fácil manutençã
 - JavaScript (ES6)
 - HTML5 e CSS3;
 - Clean Code;
-- Conhecer versionamento com Git.
+- Conhecer versionamento com Git
 - Java 11
 - Spring Boot 2.6.7 
+- Modelagem de dados
+- Banco de dados: MySQL
 
 ## Diferenciais
 
